@@ -1,0 +1,6 @@
+# ninja log v5
+0	876	699318156	CMakeFiles/2_vilage_data_model.dir/src/House.cpp.obj	bbeaf68a3e6401f6
+16	889	699318156	CMakeFiles/2_vilage_data_model.dir/src/functions.cpp.obj	28e273162d9abdfa
+9	896	699318156	CMakeFiles/2_vilage_data_model.dir/src/dwellinghouse.cpp.obj	74c9e0c22884df56
+24	897	699318156	CMakeFiles/2_vilage_data_model.dir/src/main.cpp.obj	76b8fec6a4ef3359
+897	2733	699318157	2_vilage_data_model.exe	2d763a671c5937a4
